@@ -1,0 +1,10 @@
+Actúa como un desarrollador backend experto. Lee la configuración de mi proyecto (Express y CORS). Crea un archivo llamado index.js que levante un servidor en el puerto 3000.
+Necesito que implementes lo siguiente:
+
+    Configura el middleware CORS para aceptar peticiones externas y el middleware para parsear JSON.
+
+    Crea un arreglo en memoria llamado juegos con al menos 3 objetos de prueba (id, titulo, genero).
+
+    Crea una ruta GET en '/api/juegos' que devuelva la lista completa.
+
+    Crea una ruta POST en '/api/juegos' que reciba un nuevo objeto, lo agregue al arreglo y devuelva un código de estado 201."  
